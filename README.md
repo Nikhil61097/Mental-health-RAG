@@ -22,3 +22,20 @@ A 100% local Retrieval-Augmented Generation (RAG) chatbot for answering mental h
 git clone https://github.com/Nikhil61097/Mental-health-RAG.git
 cd Mental-health-RAG
 pip install pandas numpy sentence-transformers transformers torch torchvision
+
+
+Credits
+Phi-3 Mini (Microsoft)
+
+Sentence-Transformers
+
+Transformers
+
+Dataset: Kaggle Mental Health FAQ for Chatbot
+
+
+MIT License
+
+For education and research. Not a substitute for medical advice.
+
+
