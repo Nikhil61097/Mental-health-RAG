@@ -82,14 +82,15 @@ User's question: [User input]
 Feel free to tweak any parameter to suit your use case!
 
 
-Credits
-Phi-3 Mini (Microsoft)
+Credits:
 
-Sentence-Transformers
+1. Phi-3 Mini (Microsoft)
 
-Transformers
+2. Sentence-Transformers
 
-Dataset: Kaggle Mental Health FAQ for Chatbot
+3. Transformers
+
+4. Dataset: Kaggle Mental Health FAQ for Chatbot
 
 
 MIT License
